@@ -8,5 +8,9 @@ namespace HomeWork
 {
 	public class HelperClass
 	{
+		public void GetHelp()
+		{
+			Console.WriteLine("Helper method is in work!");
+		}
 	}
 }

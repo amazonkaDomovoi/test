@@ -11,6 +11,8 @@ namespace HomeWork
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+			var helper = new HelperClass();
+			helper.GetHelp();
 		}
 	}
 }
