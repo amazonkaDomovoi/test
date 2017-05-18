@@ -73,7 +73,7 @@ namespace SeleniumHomework
 		[ClassCleanup]
 		public static void KillDriver()
 		{
-			//SeleniumDriver.Driver.Quit();
+			SeleniumDriver.Driver.Quit();
 		}
 
 	}
