@@ -1,0 +1,5 @@
+D:\Playground\GIT AND CI HM\WorkWithDiffrentStructures\WorkWithDiffrentStructures\bin\Debug\WorkWithDiffrentStructures.dll
+D:\Playground\GIT AND CI HM\WorkWithDiffrentStructures\WorkWithDiffrentStructures\bin\Debug\WorkWithDiffrentStructures.pdb
+D:\Playground\GIT AND CI HM\WorkWithDiffrentStructures\WorkWithDiffrentStructures\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Playground\GIT AND CI HM\WorkWithDiffrentStructures\WorkWithDiffrentStructures\obj\Debug\WorkWithDiffrentStructures.dll
+D:\Playground\GIT AND CI HM\WorkWithDiffrentStructures\WorkWithDiffrentStructures\obj\Debug\WorkWithDiffrentStructures.pdb

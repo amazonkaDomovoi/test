@@ -3,8 +3,12 @@ D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\bin\Debug\Selenium
 D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\bin\Debug\WebDriver.dll
 D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\bin\Debug\WebDriver.xml
-D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\obj\Debug\SeleniumHomework.csprojResolveAssemblyReference.cache
 D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\obj\Debug\SeleniumHomework.dll
 D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\obj\Debug\SeleniumHomework.pdb
 D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\bin\Debug\WebDriver.Support.dll
 D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\bin\Debug\WebDriver.Support.xml
+D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\bin\Debug\SeleniumHomework.dll.config
+D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\bin\Debug\Newtonsoft.Json.dll
+D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\bin\Debug\TechTalk.SpecFlow.dll
+D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\bin\Debug\Newtonsoft.Json.xml
+D:\Playground\GIT AND CI HM\SeleniumHomework\SeleniumHomework\obj\Debug\SeleniumHomework.csprojResolveAssemblyReference.cache
