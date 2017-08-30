@@ -39,7 +39,7 @@ namespace Dropbox.Api.Tests.StepDefinitions
         public void ThenIShouldBeAbleToGetFileInfo(BaseResponseDto fileInfo)
         {
             var apiResponse = ContextHelper.GetFromContext<ApiResponse>("LastApiResponse");
-            var actualFileInfo = apiResponse.Content<FileResponseDtoDto>();
+            var actualFileInfo = apiResponse.Content<BaseResponseDto>();
 
             actualFileInfo.ShouldBeEquivalentTo(fileInfo, options => options.Including(f => f.Name));
         }
