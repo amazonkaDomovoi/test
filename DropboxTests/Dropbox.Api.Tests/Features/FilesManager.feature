@@ -27,7 +27,7 @@ Scenario: Create a folder
 Scenario: Delete folder
 	Given '/Test' folder is created
 	When I delete '/Test' folder
-	Then I should be able to get info about deleted folder
+	Then I should be able to get deleted folder info 
 		| Name |
 		| Test |
 
@@ -37,7 +37,7 @@ Scenario: Delete file
 		| Path        | Mode | AutoRename | Mute  |
 		| /MyFile.pdf | add  | true       | false |
 	When I delete '/MyFile.pdf' file
-	Then I should be able to get info about deleted file
+	Then I should be able to get deleted file info
 		| Name       |
 		| MyFile.pdf |
  

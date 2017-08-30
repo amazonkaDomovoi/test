@@ -184,7 +184,7 @@ this.ScenarioSetup(scenarioInfo);
             table3.AddRow(new string[] {
                         "Test"});
 #line 30
- testRunner.Then("I should be able to get info about deleted folder", ((string)(null)), table3, "Then ");
+ testRunner.Then("I should be able to get deleted folder info", ((string)(null)), table3, "Then ");
 #line hidden
             this.ScenarioCleanup();
         }
@@ -220,7 +220,7 @@ this.ScenarioSetup(scenarioInfo);
             table5.AddRow(new string[] {
                         "MyFile.pdf"});
 #line 40
- testRunner.Then("I should be able to get info about deleted file", ((string)(null)), table5, "Then ");
+ testRunner.Then("I should be able to get deleted file info", ((string)(null)), table5, "Then ");
 #line hidden
             this.ScenarioCleanup();
         }

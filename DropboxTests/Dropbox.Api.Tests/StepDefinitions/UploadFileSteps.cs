@@ -34,9 +34,8 @@ namespace Dropbox.Api.Tests.StepDefinitions
             ContextHelper.AddToContext("LastApiResponse", response);
         }
 
-		[Then(@"I should be able to get info about deleted (?:folder|file)")]
-		[Then(@"I should be able to get file info")]
-        public void ThenIShouldBeAbleToGetFileInfo(BaseResponseDto fileInfo)
+		[Then(@"I should be able to get (?:file|deleted folder|deleted file) info")]
+		public void ThenIShouldBeAbleToGetFileInfo(BaseResponseDto fileInfo)
         {
             var apiResponse = ContextHelper.GetFromContext<ApiResponse>("LastApiResponse");
             var actualFileInfo = apiResponse.Content<BaseResponseDto>();
